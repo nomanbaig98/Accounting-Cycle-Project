@@ -1,14 +1,23 @@
-# Accounting
-> An accounting cycle project using python.
+# Accounting Cycle project in Python
+
+Muhammad Noman Baig EB 19103073
 
 
-## Main tools used
-1) Tkinter- For the graphical user interface
-2) Sqlite-  For data storage
+Shehroz Ahmed Khan EB 19103111
+
+
+HM Hamza EB 19103059
+
+
+Noman Ahmed Khan EB 19103097
+
+## Tech Stack
+1) Tkinter- GUI
+2) Sqlite-  Database
 
 The whole project was based on object oriented concepts that completes the basic accounting cycle.
 
-## The main features are as follows.
+## Features
 * Views:
   * Accounts, General journal, Trial balance, T accounts
 * Add:
@@ -19,10 +28,4 @@ The whole project was based on object oriented concepts that completes the basic
   * Income, Owner's equity, Balance sheet
 * Others:
   * Refresh accounts.
-  
-## Instructions
-You will have to run the "main.py" file for the software to execute.
 
-
-## Contributing
-Feel free to fork this project and contribute to it.
